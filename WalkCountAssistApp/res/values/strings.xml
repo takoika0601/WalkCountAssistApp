@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WalkCountAssistApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_main">App Title</string>
+    <string name="title_button">スタート！</string>
+    <string name="splashtitle">警告</string>
+    <string name="splashtext">本アプリは○○と連携して動作いたします。\n単独では動作いたしません。\nあらかじめご了承ください。</string>
+
+</resources>
